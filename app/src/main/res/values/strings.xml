@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bill Splitter</string>
+    <string name="total_per_person">Total Per Person</string>
+</resources>
